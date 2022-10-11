@@ -4,9 +4,7 @@
   <img alt="Logo">
 </picture>
 
-A secure chat system for
-- personal 👩‍💻
-- professional 💼 
+A secure chat system for people who care about privacy
 
 <details open>
 <summary>C'est quoi HK416 ? 👀</summary>
