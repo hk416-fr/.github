@@ -24,4 +24,4 @@ HK416 aims to offer a secure and open source alternative, a clear way to regain 
 Your conversations will not have the same impact once you are on HK416. 💥
 </details>
 
-Made with ❤️ 
+Made with ❤️ bye the French baguette
